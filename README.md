@@ -49,14 +49,7 @@ The goal is to uncover long-term performance trends, annual returns, correlation
 
 ## Dashboard (Power BI)
 
-### Page 1 — Stock Price Evolution
-![Dashboard Page 1](dashboard_page1.png)
-
-### Page 2 — Trading Volume Analysis
-![Dashboard Page 2](dashboard_page2.png)
-
-### Page 3 — Company Comparison
-![Dashboard Page 3](dashboard_page3.png)
+📄 [View Power BI Dashboard](Dashboard_Power_BI.pdf)
 
 ---
 
@@ -68,8 +61,6 @@ The goal is to uncover long-term performance trends, annual returns, correlation
 ### Stock Price Correlation Matrix
 ![Correlation Matrix](correlation_matrix.png)
 
-### Best and Worst Years
-![Best Worst Years](best_worst_years.png)
 
 ---
 
